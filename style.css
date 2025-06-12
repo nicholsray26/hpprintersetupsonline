@@ -240,7 +240,13 @@ footer {
   .footer-grid {
     grid-template-columns: 1fr;
   }
-
+.hero-text {
+  max-width: 600px;
+  width: 100%;
+}
+.search-box {
+  width: 20rem;
+}
   .top-bar {
     flex-direction: column;
     align-items: flex-start;
