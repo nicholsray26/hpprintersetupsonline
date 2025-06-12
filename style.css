@@ -255,6 +255,9 @@ footer {
 }
 .tabs{margin-left: 20px; margin-right: 20px;
 }
+.header-container{display: none !important;}
+
+.main-nav{display: none !important;}
   .top-bar {
     flex-direction: column;
     align-items: flex-start;
