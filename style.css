@@ -258,6 +258,7 @@ footer {
 .header-container{display: none !important;}
 
 .main-nav{display: none !important;}
+.logo {display: none !important;}
   .top-bar {
     flex-direction: column;
     align-items: flex-start;
