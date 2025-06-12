@@ -250,6 +250,11 @@ footer {
 .hero {
   padding: 20px !important;
 }
+.hero img{
+  width: 100% !important;
+}
+.tabs{margin-left: 20px; margin-right: 20px;
+}
   .top-bar {
     flex-direction: column;
     align-items: flex-start;
