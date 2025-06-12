@@ -245,7 +245,7 @@ footer {
   width: 100%;
 }
 .search-box {
-  width: 15rem;
+  width: 15rem !important;
 }
   .top-bar {
     flex-direction: column;
