@@ -23,13 +23,17 @@
       max-width: 1000px;
       margin: 0 auto;
     }
-    @media (max-width: 600px) {
-.logo {display: none !important;}
-.error-image {padding-top: 0px !important;
+@media (max-width: 600px) {
+  .logo {
+    display: none !important;
+  }
 
+  .error-image {
+    padding-top: 0 !important;
+    margin-top: -30px !important; /* Moves image upwards */
+  }
 }
 
-    }
     .logo {
       display: flex;
       justify-content: space-between;
